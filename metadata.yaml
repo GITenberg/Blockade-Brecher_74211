@@ -1,0 +1,36 @@
+_repo: Blockade-Brecher_74211
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Selow-Serman, K. E.
+    alias: Selow-Serman, Karl Emil
+    birthdate: 1881
+    deathdate: 1943
+    gutenberg_agent_id: '51695'
+    url: http://www.gutenberg.org/2009/agents/51695
+description: ''
+gutenberg_issued: '2024-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74211'
+  lccn: '25019152'
+language: de
+pgterms:marc904: https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN727525328
+pgterms:marc905: 20191102115106selowserma
+pgterms:marc906: '1917'
+pgterms:marc907: de
+production_note: Peter Becker, Martin Oswald and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (The digitized holdings of the Staatsbibliothek zu
+  Berlin are available to all interested parties worldwide free of charge for non-commercial
+  use.)
+publication_note: '  $aBerlin :$bVerlag von August Scherl G. m. b. H., $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Blockades'
+- !lcsh 'Marie (Ship)'
+- !lcc 'D501'
+- GITenberg
+title: Blockade-Brecher
+url: http://www.gutenberg.org/ebooks/74211
